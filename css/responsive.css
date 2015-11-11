@@ -1,0 +1,48 @@
+@media (max-width: 900px) {
+    body {
+        padding: 0;
+        margin: 40px 15px;
+        justify-content: flex-start;
+    }
+
+    .container {
+        max-width: 500px;
+        margin-bottom: 1.5rem;
+    }
+}
+
+@media (max-width: 640px) {
+    .container {
+        max-width: 420px;
+    }
+
+    footer {
+        justify-content: center;
+    }
+}
+
+@media (max-width: 480px) {
+    body {
+        margin: 20px 5px;
+        animation: none;
+    }
+
+    .container {
+        max-width: 380px;
+    }
+
+    .photo {
+        max-width: 100%;
+    }
+}
+
+@media (max-width: 380px) {
+    body {
+        margin: 20px 5px;
+        animation: none;
+    }
+
+    .container {
+        max-width: 320px;
+    }
+}
