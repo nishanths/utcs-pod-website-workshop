@@ -29,3 +29,13 @@ Options
 
 More on this later!
 
+# Extras
+
+Other related repos
+
+* https://github.com/utcsmad/f15-personal-website (MAD workshop)
+
+# License 
+
+MIT
+
