@@ -1,18 +1,16 @@
-# Personal website
+# [utcs-pod-website-workshop](https://github.com/nishanths/utcs-pod-website-workshop)
 
+* Workshop on setting up a personal website. Presented at a [UTCS Pod](https://www.cs.utexas.edu/undergraduate/student-engagement-and-support/360-connections/cs-pods) meeting.
 * Wednesday, Nov 11 2016
-* https://github.com/nishanths/utcs-pod-website-workshop (tonight)
+
 
 # What we'll be building
 
+**[Live example](http://nishanths.github.io/utcs-pod-website-workshop)**
+
+A personal website. It will responsive—so it will look great on both small and large screens. We will use flexbox for centering, rather than depending on CSS frameworks.
+
 ![screen shot](http://i.imgur.com/XvdQoPU.png)
-
-# Things we will get to if we have time
-
-Not to worry! Examples and explanations for how to do these will be uploaded to the [GitHub repo](https://github.com/nishanths/utcs-pod-website-workshop) tonight in case we don't.
-
-* Best practices for `<head>` tags
-* Hosting
 
 # Parts of a webpage
 
@@ -24,18 +22,16 @@ Not to worry! Examples and explanations for how to do these will be uploaded to 
 
 Options
 
-* UTCS
+* [UTCS](http://www.cs.utexas.edu/facilities/documentation/web)
 * [GitHub Pages](https://pages.github.com)
-
-More on this later!
 
 # Extras
 
-Other related repos
+Related repos
 
-* https://github.com/utcsmad/f15-personal-website (MAD workshop)
+* [utcsmad/f15-personal-website](https://github.com/utcsmad/f15-personal-website)
 
 # License 
 
-MIT
+[MIT](nishanths.mit-license.org)
 
