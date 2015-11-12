@@ -64,18 +64,29 @@ p {
     margin-bottom: 1rem;
 }
 
+emph {
+    font-style: italic;
+}
+
+/*override reset-ed styles*/
+
+ul.bulleted {
+    list-style-type: disc;
+    padding-left: 3rem;
+}
+
 /*Skeleton*/
 
 html {
     height: 100%;    
     /*declare a font size so we can use rem (relative to root element) units*/
-    font-size: 14px;
+    font-size: 16px;
 }
 
 body {
     /*widths and heights*/
     min-height: 100%;
-    padding: 100px 200px;
+    padding: 50px 200px;
     
     /*colors and fonts*/
     font-family: 'Fira Sans', 'sans-serif';
@@ -99,7 +110,7 @@ body {
     background-size: 100%;
     
     /*animations*/
-    animation: slide 1.25s ease-out;
+    animation: slide 0.5s ease-out;
 }
 
 /*Common container*/
@@ -151,7 +162,6 @@ footer {
 
 footer ul.social {
     display: flex;
-    flex-direction: row;
 }
 
 footer ul.social li {
@@ -175,10 +185,14 @@ footer ul.social li .icon {
     color: #111;
 }
 
-.photo {
+/*profile image*/
+
+.profile-photo {
     max-width: 300px;
     background-size: 200px;
 }
+
+/*animations declarations*/
 
 @keyframes slide {
     0% {
