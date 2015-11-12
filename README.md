@@ -33,5 +33,5 @@ Related repos
 
 # License 
 
-[MIT](nishanths.mit-license.org)
+[MIT](http://nishanths.mit-license.org)
 
