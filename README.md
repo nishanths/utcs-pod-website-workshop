@@ -1,7 +1,7 @@
 # [utcs-pod-website-workshop](https://github.com/nishanths/utcs-pod-website-workshop)
 
 * Workshop on setting up a personal website. Presented at a [UTCS Pod](https://www.cs.utexas.edu/undergraduate/student-engagement-and-support/360-connections/cs-pods) meeting.
-* Wednesday, Nov 11 2016
+* Wednesday, Nov 11 2015
 
 
 # What we'll be building
