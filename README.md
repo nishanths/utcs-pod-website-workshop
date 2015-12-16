@@ -6,7 +6,7 @@
 
 # What we'll be building
 
-**[Live example](http://nishanths.github.io/utcs-pod-website-workshop)**
+**[Live example](http://utcsmad.github.io/utcs-pod-website-workshop)**
 
 A personal website. It will be responsive and will look great on both small and large screens. We will use flexbox for centering, rather than depending on CSS frameworks.
 
