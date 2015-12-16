@@ -29,6 +29,7 @@
 
     .container {
         max-width: 380px;
+        padding: 0 15px;
     }
 
     .profile-photo {
